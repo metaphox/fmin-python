@@ -8,7 +8,9 @@ This is an almost one-to-one translation of the Java version
 ([Fmin.java](http://www1.fpl.fs.fed.us/Fmin.java), yes, from 1998.)
 which itself is translated from the FORTRAN version.
 
-It's pretty meaningless I know, but why not.
+It's pretty meaningless I know (and if you don't:
+`from scipy.optimize import minimize_scalar` does exactly that), but
+why not.
 
 Original Fmin.java copyright claim:
 
